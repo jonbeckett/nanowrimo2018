@@ -1,0 +1,61 @@
+So here we are. The clock just ticked past midnight. It’s now officially the first of November, and NaNoWriMo has begun. National Novel Writing Month. The annual challenge to write fifty thousand words during November.
+
+This isn’t the first time I have attempted it. Oh no. I think perhaps the first time was during a holiday in Tunisia, in the years before children. I took a Palm Pilot organiser with me, and a fold-out keyboard. I remember sitting on the beach, cross-legged on a towel, tapping away while holiday makers wandered past, wondering what the strange man was doing.
+
+I tried it again a couple of years ago - and survived for about the first week before life, work, family, and the universe in general came crashing down on the attempt like a piano pushed from the back of a rather large aircraft at considerable altitude. I saw the impending crater, held my hands up, and swore I would never try again.
+
+But here I am.
+
+Here I am, sitting in the junk room at home (that we rather loftily call “the study”), in front of a twenty year old iMac computer, with an angle poise lamp, and a paper notepad for company. Until two hours ago I had no idea what I was going to write when midnight ticked around, but then an idea arrived rather unexpectedly in my head.
+
+A book of me.
+
+A series of chapters, each about different parts of my life, my memories, my thoughts, my ideas, and my opinions. A different subject each day. I’ve tentatively written out cards for each subject - I imagine I’ll fill them with words as the month progresses, picking subjects from the tree, if that makes any sense at all. Of course the risk is that I’ll bore myself to death along the way.
+
+The story behind the iMac is an interesting one. Not withstanding that there’s a Windows 10 PC sitting across the room from me, the iMac was bought on E-Bay. As with many purchases from online auction sites, the reasons for buying it have been lost in history - I imagine it was a “good idea at the time” purchase - a deal that was too good to be true.
+
+I remember it arriving, in a huge cardboard box, and opening it to discover a piece of computing history in remarkable condition, given it’s age. It turned out a school had been clearing a store-room out, and discovered a number of iMacs that had not been used. At all. Ever. They had sat in the school store-room for over a decade.
+
+Of course the iMac then sat on a shelf in our junk room for a year, before being carried up to the attic for the better part of ten years. After retrieving it this time, it was doing a pretty good impersonation of a gas turbine engine, which a quick internet search narrowed down to hard drive bearing failure. I had no idea that bicycles and hard drives were so closely related, but crossed my fingers, and waited for the postman to deliver a shiny new hard drive a few days later.
+
+If you’ve never taken an iMac apart, it’s not quite as simple as a modern computer. Most PCs and laptops have easy access to memory chips, and hard drives. I had to pretty much perform open-heart surgery on the Mac - the human equivalent of taking it’s arms and legs off, most of it’s internal organs out, and then putting everything back together in the exact reverse order that I had disassembled it - putting the right screws back into the right holes along the way.
+
+It’s worth pointing out that although I work as a “techie”, I’m more about the software these days - being faced with a rather large meccano project that might electrocute me, I was understandably stressed.
+
+You can’t imagine how relieved I was when, after re-assembling all the body parts, the Mac chirped back into life with the famous “Apple sound” (the same sound Wall-E makes when fully charged, if you’ve seen the movie - it just struck me that iPhones and iPads don’t make the noise, so most people will never have heard it).
+
+Doesn’t it make you feel old, when you realise something you think of as “normal” is actually a piece of ancient history.
+
+Anyway!
+
+The Mac is working. It’s sitting on the desk in front of me, and it no longer sounds like a Lufthansa A320 spooling up it’s engines to takeoff from London Heathrow. It’s humming away quite quietly in the dark of the study, on the desk I cleared last week, and inviting me to write the beginnings of fifty thousand words.
+
+I haven’t really descrived the Mac, have I. It’s one of the tear-drop shaped Macs with the CRT monitor, speakers, and CD drive all housed in one lump of plastic - with the innards visible through the sides and back of the case. This one is a deep blue colour, with pinstripes running through the grey front-facia. It wouldn’t have looked out of place in an early episode of Friends, or Will and Grace.
+
+Isn’t it funny how the early Macintosh computers were such style icons. If you search on Youtube, you can still find the unveiling of the Mac Classic - where Steve Jobs showed off the computer that millions of writers would buy for the first time. It seems funny today, but the moment where Times New Roman lettering scrolled smoothly past was a huge moment in computer history. It’s hard to impress on younger people just how big a change it represented. Of course there is a wider story about the theft of ideas from the Xerox PARC facility, but we’ll keep quiet about that.
+
+Let’s just agree that the iMac is quiet pretty, in a “MTV of the 1990s” kind of way.
+
+I’m using a word processor program called “Scrivener” for this tilt at NaNoWriMo. It’s supposed to be very good for writing books. I bought it way back in the mists of time before children, when I still had disposable income, and could buy things because I liked the idea of them, rather than because I had to buy it for whatever reason.
+
+I miss those days - when you could buy something because you liked the idea of it, and nothing more.
+
+I remember first hearing about Scrivener while listening to Mac Break Weekly - a podcast on the TWiT network, hosted by Leo Laporte and Andy Ihnatko. Andy is a technology journalist for various US newspapers, websites, and periodicals, and is also a wonderful podcaster. He has the curious knack of being able to talk about any subject, and make it interesting - usually inter-spersed with numerous anecdotes along the way. I sometimes wonder just how many people took a chance on Scrivener because of Andy Ihnatko enthusing about it so often.
+
+Alongside the Mac on the desk is an Iomega ZIP drive. If you were using computers at the turn of the millenium, you will probably remember ZIP drives. This particular drive (there were many versions) stores 250 gigabytes on a single disk. In old money, that’s about two hundred floppy disks. In new money, that’s about 5% of an average memory stick no bigger than your thumbnail. Oh how technology has changed.
+
+When you slide a disk into the ZIP drive, it makes a re-assuring clunk noise, and whirs into life - it actually sounds like it’s doing something, unlike memory sticks that just sit there and cause a light to glow from time to time. I’ll be using the ZIP drive to save backups of my writing. Some might think that using twenty year old disks is a recipe for disaster, and I do too - which is why I’m not relying on them exclusively.
+
+One of the very lovely things about the operating system on the Mac is that it’s based on Unix, which in turn means a slew of common applications are available for it that have been ported from Linux - which it turns out is a distant cousin. Cutting a long and boring story short, you can run Git on this ancient Mac, which lets me save everything I write into a version controlled database, and then push it up to the cloud for safe keeping.
+
+Once a software developer, always a software developer. It just occurred to me that I hadn’t mentioned that yet - I’m a software developer. We use Git to save things. I’ll perhaps write more about that another day. It’s perhaps worth relating that Linus Torvalds invented Git, and has no real explanation for why it’s called Git. I love those kind of stories - where, after digging relentlessly for the facts, you find out that some major decision was made entirely by chance.
+
+It’s nearing 1am, and I’m wondering if I should call it a night. It almost seems like cheating - racing past the quota of words for the first day on NaNoWriMo before the day has really begun. I suppose that’s working on Christmas rules though - where 2am on Christmas Day is really still Christmas Eve - or that’s what you tell your children when they wake up in the middle of the night, absolutely sure they just heard Santa. I’m a grown-up though. I know that one minute past midnight is actually the next day. This really IS the first of November, and this really is the introduction to a rather silly book about me.
+
+Trying to decide quite what I might write about has been tumbling around in the back of my mind for the last several days. I wondered about writing a fictional novel in the manner of Microserfs, by Douglas Coupland - a love letter of sorts to all the people I’ve worked with over the years - changing their names, but instilling their characters into a madcap bunch of lunatics populating the most toxic yet entertaining office environment I could dream up.
+
+I decided against fiction, because I thought I might get bored with it. I posted a question on my blog last week - if I should write A book, or write MY book - and several people chose the latter. A book about me. My story. My thoughts about things - as outlined earlier.
+
+So this is it. The end. Well - the end of the beginning, otherwise this would be the shortest failed attempt at NaNoWriMo ever, probably. Actually, I bet some people have signed up and not written a word. Does that actually count though?
+
+Tomorrow I’ll write some more, and the day after I’ll write even more - then by the end of the month we’ll see where we are. Fifty thousand words can’t be THAT difficult, can it ?

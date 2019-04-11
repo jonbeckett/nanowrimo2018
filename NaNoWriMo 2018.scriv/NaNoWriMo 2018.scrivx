@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25238" Modified="2018-11-14 18:58:23 +0000">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2018-10-27 16:51:48 +0100" Modified="2018-10-27 16:51:48 +0100">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>20</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="20" Type="Text" Created="2018-10-31 21:23:45 +0000" Modified="2018-11-01 01:04:36 +0000">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>219,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" Type="Folder" Created="2018-11-01 20:05:17 +0000" Modified="2018-11-01 20:05:20 +0000">
+                    <Title>Computers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>41</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="56" Type="Text" Created="2018-11-01 20:13:50 +0000" Modified="2018-11-02 21:17:51 +0000">
+                            <Title>First Computer</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2893,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" Type="Text" Created="2018-11-01 19:54:37 +0000" Modified="2018-11-02 21:18:37 +0000">
+                            <Title>MSX</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9020,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="57" Type="Text" Created="2018-11-02 21:18:38 +0000" Modified="2018-11-02 21:18:47 +0000">
+                            <Title>Electric Organs</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6060,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" Type="Text" Created="2018-11-01 20:05:34 +0000" Modified="2018-11-03 11:22:23 +0000">
+                            <Title>Atari ST</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>736,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="44" Type="Text" Created="2018-11-01 20:05:56 +0000" Modified="2018-11-03 15:28:16 +0000">
+                            <Title>486</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>402,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" Type="Text" Created="2018-10-31 22:50:35 +0000" Modified="2018-11-03 20:16:58 +0000">
+                            <Title>The Internet</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>667,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="58" Type="Text" Created="2018-11-03 15:26:05 +0000" Modified="2018-11-03 15:26:09 +0000">
+                            <Title>Pentium</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="45" Type="Folder" Created="2018-11-01 20:06:36 +0000" Modified="2018-11-01 20:06:41 +0000">
+                    <Title>Work</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="37" Type="Text" Created="2018-10-31 22:11:40 +0000" Modified="2018-11-10 09:04:16 +0000">
+                            <Title>Working for the Family Business</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,11674</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" Type="Text" Created="2018-10-31 22:11:16 +0000" Modified="2018-11-11 10:04:46 +0000">
+                            <Title>Arriving at my First Job</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5716,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="76" Type="Text" Created="2018-11-11 10:04:56 +0000" Modified="2018-11-11 15:34:03 +0000">
+                            <Title>Working at ABS</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8259,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="77" Type="Text" Created="2018-11-11 15:51:22 +0000" Modified="2018-11-11 16:00:00 +0000">
+                            <Title>Haileys Comet</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="81" Type="Text" Created="2018-11-14 18:54:08 +0000" Modified="2018-11-14 18:54:24 +0000">
+                            <Title>Inventing Damon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="82" Type="Text" Created="2018-11-14 18:54:36 +0000" Modified="2018-11-14 18:56:53 +0000">
+                            <Title>Networking</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1823,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="53" Type="Text" Created="2018-11-01 20:10:28 +0000" Modified="2018-11-13 22:43:12 +0000">
+                            <Title>Freelance</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4661,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="3" Type="Text" Created="2018-10-27 16:51:48 +0100" Modified="2018-10-31 21:25:50 +0000">
+                            <Title>How I Get to Work</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="7" Type="Text" Created="2018-10-27 16:59:03 +0100" Modified="2018-10-31 21:26:23 +0000">
+                            <Title>How I Came to Work Here</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" Type="Text" Created="2018-10-27 17:05:15 +0100" Modified="2018-10-31 21:22:18 +0000">
+                            <Title>The Office</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" Type="Text" Created="2018-10-27 17:05:22 +0100" Modified="2018-10-31 21:26:41 +0000">
+                            <Title>Travelling with Work</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="18" Type="Text" Created="2018-10-27 17:12:17 +0100" Modified="2018-10-31 21:27:15 +0000">
+                            <Title>Working in Germany</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" Type="Text" Created="2018-10-31 21:56:55 +0000" Modified="2018-10-31 22:37:09 +0000">
+                            <Title>Being a Software Developer</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="46" Type="Folder" Created="2018-11-01 20:07:16 +0000" Modified="2018-11-01 20:07:19 +0000">
+                    <Title>Interests</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="21" Type="Text" Created="2018-10-31 21:55:57 +0000" Modified="2018-11-13 20:36:24 +0000">
+                            <Title>Video Games</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6961,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" Type="Text" Created="2018-10-31 21:56:13 +0000" Modified="2018-10-31 22:35:42 +0000">
+                            <Title>Comic Books</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="23" Type="Text" Created="2018-10-31 21:56:26 +0000" Modified="2018-11-10 09:06:17 +0000">
+                            <Title>Blogging</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="25" Type="Text" Created="2018-10-31 21:57:04 +0000" Modified="2018-10-31 22:37:37 +0000">
+                            <Title>Music</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="26" Type="Text" Created="2018-10-31 21:57:11 +0000" Modified="2018-10-31 22:40:04 +0000">
+                            <Title>Movies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="27" Type="Text" Created="2018-10-31 21:57:17 +0000" Modified="2018-10-31 22:40:25 +0000">
+                            <Title>Books</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="78" Type="Text" Created="2018-11-14 18:50:22 +0000" Modified="2018-11-14 18:52:54 +0000">
+                            <Title>Chess</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5732,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="47" Type="Folder" Created="2018-11-01 20:08:07 +0000" Modified="2018-11-01 20:08:13 +0000">
+                    <Title>The Internet</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="59" Type="Text" Created="2018-11-03 20:17:51 +0000" Modified="2018-11-08 21:04:07 +0000">
+                            <Title>Thought Cafe</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9585,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="29" Type="Text" Created="2018-10-31 21:57:35 +0000" Modified="2018-10-31 22:42:38 +0000">
+                            <Title>Far Flung Friends</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="48" Type="Folder" Created="2018-11-01 20:08:44 +0000" Modified="2018-11-01 20:08:46 +0000">
+                    <Title>Life</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="32" Type="Text" Created="2018-10-31 22:01:57 +0000" Modified="2018-11-06 18:54:29 +0000">
+                            <Title>4 Burswin Road</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11449,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="49" Type="Text" Created="2018-11-01 20:08:57 +0000" Modified="2018-11-07 19:52:42 +0000">
+                            <Title>9 Davis Close</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9060,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="61" Type="Text" Created="2018-11-07 19:26:04 +0000" Modified="2018-11-07 20:36:43 +0000">
+                            <Title>RAF Brize Norton</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,5926</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" Type="Text" Created="2018-11-01 20:09:05 +0000" Modified="2018-11-14 18:53:56 +0000">
+                            <Title>Moving to Witney</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6862,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="51" Type="Text" Created="2018-11-01 20:09:10 +0000" Modified="2018-11-01 20:09:17 +0000">
+                            <Title>Marlow</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="30" Type="Text" Created="2018-10-31 21:57:51 +0000" Modified="2018-10-31 22:43:01 +0000">
+                            <Title>Adopting Children</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="31" Type="Text" Created="2018-10-31 22:01:39 +0000" Modified="2018-10-31 22:43:35 +0000">
+                            <Title>Living in the Gaps</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="28" Type="Text" Created="2018-10-31 21:57:22 +0000" Modified="2018-10-31 22:41:09 +0000">
+                            <Title>Food</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="52" Type="Folder" Created="2018-11-01 20:09:42 +0000" Modified="2018-11-01 20:09:47 +0000">
+                    <Title>Education</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="33" Type="Text" Created="2018-10-31 22:10:55 +0000" Modified="2018-11-04 17:10:50 +0000">
+                            <Title>Infant School</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>650,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="60" Type="Text" Created="2018-11-04 17:10:52 +0000" Modified="2018-11-05 20:49:44 +0000">
+                            <Title>Junior School</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,490</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="62" Type="Text" Created="2018-11-07 20:42:37 +0000" Modified="2018-11-13 22:44:35 +0000">
+                            <Title>Secondary School</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" Type="Text" Created="2018-10-31 22:11:08 +0000" Modified="2018-11-13 22:44:35 +0000">
+                            <Title>West Oxfordshire College</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="54" Type="Folder" Created="2018-11-01 20:11:37 +0000" Modified="2018-11-01 20:11:43 +0000">
+                    <Title>Miscellaneous</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="39" Type="Text" Created="2018-10-31 22:49:16 +0000" Modified="2018-10-31 22:50:12 +0000">
+                            <Title>Religion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="79" Type="Text" Created="2018-11-14 18:53:20 +0000" Modified="2018-11-14 18:53:37 +0000">
+                            <Title>Crossing the Finish Line</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" Type="Text" Created="2018-11-14 18:53:25 +0000" Modified="2018-11-14 18:53:25 +0000">
+                            <Title>Untitled</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2018-10-27 16:51:48 +0100" Modified="2018-10-27 16:51:48 +0100">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2018-10-27 16:51:48 +0100" Modified="2018-10-27 16:51:48 +0100">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="75" Type="Text" Created="2018-11-07 20:53:19 +0000" Modified="2018-11-07 20:55:17 +0000">
+                    <Title>G Block</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="68" Type="Text" Created="2018-11-07 20:46:50 +0000" Modified="2018-11-07 20:54:33 +0000">
+                    <Title>Computer Science</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="69" Type="Text" Created="2018-11-07 20:46:55 +0000" Modified="2018-11-07 20:48:27 +0000">
+                    <Title>Maths</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="70" Type="Text" Created="2018-11-07 20:46:59 +0000" Modified="2018-11-07 20:49:57 +0000">
+                    <Title>Economics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="71" Type="Text" Created="2018-11-07 20:47:04 +0000" Modified="2018-11-07 20:50:25 +0000">
+                    <Title>Travel and Tourism</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="74" Type="Text" Created="2018-11-07 20:50:26 +0000" Modified="2018-11-07 20:50:45 +0000">
+                    <Title>Accounts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="72" Type="Text" Created="2018-11-07 20:47:16 +0000" Modified="2018-11-07 20:51:17 +0000">
+                    <Title>The Library</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="73" Type="Text" Created="2018-11-07 20:47:28 +0000" Modified="2018-11-07 20:53:14 +0000">
+                    <Title>Art &amp; Craft</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="DA8D7176-15E5-437E-A523-D0B93C27EA27" Color="0.843 0.867 0.898">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="11DBA8CF-7687-4DD4-9174-EACD162F82DD" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2018-10-27 16:51:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="7101" Characters="39304" Date="2018-11-14 18:49:45 +0000"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="Letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
